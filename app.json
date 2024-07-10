@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-beginer",
-    "slug": "react-native-beginer",
+    "name": "Myapp",
+    "slug": "myapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
